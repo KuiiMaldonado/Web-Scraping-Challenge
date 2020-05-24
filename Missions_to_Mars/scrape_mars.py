@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as bs
 from splinter import Browser
 import traceback
 from time import sleep
-from flask import Flask, render_template, redirect, Markup
+from flask import Flask, render_template, redirect
 
 #Create a connection to MongoDB
 conn = 'mongodb://localhost:27017'

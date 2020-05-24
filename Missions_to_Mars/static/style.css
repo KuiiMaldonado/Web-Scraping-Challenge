@@ -1,0 +1,23 @@
+#ft_image{
+    width: 600px;
+    height: 500px;
+}
+
+.bg-cover{
+    background-image: url("../static/mars_wallpaper.jpg");
+    background-size: 950px 300px;
+    background-repeat: no-repeat;
+}
+
+#news{   
+    background-color: rgba(246, 98, 63, .30);
+    border-radius: 5px;
+}
+
+body{
+    background-color: rgba(169, 110, 83, 0.30);
+}
+
+#hemispheresCarousel{
+    width: 600px;
+}
